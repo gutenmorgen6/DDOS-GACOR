@@ -32,5 +32,5 @@ jobs:
         run: chmod +x * && chmod +x stx
 
       - name: Run Application
-        run: python3 ypoy.py
+        run: python ypoy.py
         

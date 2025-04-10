@@ -1,0 +1,6 @@
+python3
+pymongo
+python-telegram-bot
+pyTelegramBotAPI
+certifi
+pytz
